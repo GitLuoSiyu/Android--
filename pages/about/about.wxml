@@ -1,0 +1,14 @@
+<!--pages/about/about.wxml-->
+<view class='page'>
+  <view class='abouttext' style='color:#0000FF'>1、仿照玩安卓社区大神的玩安卓程序，数据基于鸿洋大神的玩android开放API完成的</view>
+
+  <view class='abouttext' style='color:#008B00'>2、属于仿学作品，https的api是借用社区某大佬的数据接口
+  </view>
+
+  <view class='abouttext' style='color:#000'>最近第一次学习小程序，先通过开放的API先仿，再一步步创新开发</view>
+
+ <view class='abouttext' style='color:#f00;font-size: 18px;'>3、小程序没有上线，仅仅作为练习使用</view>
+</view>
+
+<view class='abouttext' style='color:#008B00'>☆、很多细节都是仿造，没有完全复原
+  </view>
